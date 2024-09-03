@@ -3,7 +3,6 @@ import { Providers } from "@/app/providers";
 import localFont from "next/font/local";
 import "./globals.css";
 
-
 export const metadata: Metadata = {
   metadataBase: new URL("https://unedit.vercel.app/"),
   title: "UnEdit",
